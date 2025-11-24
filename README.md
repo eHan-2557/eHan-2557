@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eHan-2557
 - 👀 I’m interested in nothing special, just coding and stuff.
-- 🌱 I’m currently learning js, and some basic coding so that i can use unity
+- 🌱 I’m currently taking an APCS course at Stuyvesant High School
 - 💞️ I’m looking to collaborate on nothing, yet
 - 📫 How to reach me, email i guess? ehank2008@gmail.com
 
